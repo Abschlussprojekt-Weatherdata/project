@@ -1,2 +1,4 @@
 Trained and serialized models, model predictions, or model summaries.
-Models are stored in zip me due to size.
+Models are stored in zipped folder due to size.
+
+*Please unzip locally.*
